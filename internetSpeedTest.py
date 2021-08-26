@@ -91,7 +91,8 @@ else:
     updateLog.write(
                         f"Internet speed test failed for {col-2}:00 hours on "
                         + date
-                        + "\nExcel file not edited.\n\n")
+                        + "\nExcel file not edited.\n\n"
+                    )
 
 updateLog.close()
 print("\n###################### Execution log updated succesfully. ##############################\n")

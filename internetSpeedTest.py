@@ -2,7 +2,7 @@
 ### Author: Dishant Vyas
 ### Desc: This Python script tests the speed of your internet
 ######### connection and notes the value down in an Excel sheet.
-######### It may be automated using Windows Task Manager in
+######### It may be automated using Windows Task Scheduler in
 ######### order to get test results at specified time intervals.
 
 
@@ -32,6 +32,7 @@ def speedTest():
     # uploadSpeedTestRes = test.upload()
     # print(f"Upload Speed = {uploadSpeedTestRes:.2f} bps = {uploadSpeedTestRes/pow(1024,2):.2f} Mbps")
 
+    ########## To check ping.
     # print("\nPerforming ping test...")
     # pingRes = test.results.ping
     # print(f"Ping (the response time of your connection) = {pingRes:.2f} ms\n")

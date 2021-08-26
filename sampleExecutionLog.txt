@@ -1,0 +1,14 @@
+Internet speed test succeeded at 10:00 hours on 26/08/2021
+Download Speed = 16.49 Mbps
+Result noted in Excel file.
+
+Internet speed test failed at 11:00 hours on 26/08/2021
+Excel file not edited.
+
+Internet speed test succeeded at 12:00 hours on 26/08/2021
+Download Speed = 40.25 Mbps
+Result noted in Excel file.
+
+Internet speed test succeeded at 13:00 hours on 26/08/2021
+Download Speed = 22.31 Mbps
+Result noted in Excel file.

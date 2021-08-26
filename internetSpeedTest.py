@@ -85,7 +85,7 @@ if(itWorked):
                         f"Internet speed test succeeded for {col-2}:00 hours on "
                         + date
                         + f"\nDownload Speed = {downloadSpeedTestRes} Mbps"
-                        + "\nResult noted in Excel file."
+                        + "\nResult noted in Excel file.\n\n"
                     )
 else:
     updateLog.write(

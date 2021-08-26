@@ -11,7 +11,7 @@ Requirements:<br>
 --> `speedtest-cli` package<br>
 --> `openpyxl` package
 
-The Python packages can be istalled by running the following command:<br>
+The Python packages can be installed by running the following command in terminal:<br>
 `pip install <package-name>`
 
 This script may be automated using Windows Task Manager in order to get test results for multiple instances.

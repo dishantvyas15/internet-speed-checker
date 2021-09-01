@@ -13,9 +13,8 @@ Requirements:<br>
 
 <hr>
 Python Installation:<br>
-Download and install the latest Python version from https://www.python.org/downloads/<br>
+Download and install the latest Python version from https://www.python.org/downloads/. Make sure you check the options of installing <i>pip</i> (which would be required to install other Python packages) and <i>Add Python to environment variables</i>.<br>
 Tutorial: https://youtu.be/xXEt9dyvq3U<br>
-Make sure you check the options of installing <i>pip</i> (which would be required to install other Python packages) and <i>Add Python to environment variables</i>.<br><br>
 
 You may check your Python installation by running `python --version` in terminal.<br>
 The Python packages can be installed by running `pip install <package-name>` in terminal.<br>

@@ -11,7 +11,15 @@ Requirements:<br>
 --> `speedtest-cli` package<br>
 --> `openpyxl` package
 
-The Python packages can be installed by running the following command in terminal:<br>
-`pip install <package-name>`
+<hr>
+Python Installation:<br>
+Download and install the latest Python version from https://www.python.org/downloads/<br>
+Tutorial: https://youtu.be/xXEt9dyvq3U<br>
+Make sure you check the options of installing <i>pip</i> (which would be required to install other Python packages) and <i>Add Python to environment variables</i>.<br><br>
 
-This script may be automated using Windows Task Manager in order to get test results for multiple instances.
+You may check your Python installation by running `python --version` in terminal.<br>
+The Python packages can be installed by running `pip install <package-name>` in terminal.<br>
+
+<hr>
+This script may be automated using <i>Task Scheduler</i> (in Windows) in order to get test results periodically. I found this tutorial useful for the same: https://youtu.be/DVUlkU2AxgQ<br>
+Use the <b>Create Task...</b> option instead of <b>Create Basic Task...</b> option to get more customization options.

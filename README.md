@@ -1,4 +1,4 @@
-# internet-speed-checker
+# Internet Speed Checker
 
 This Python script tests the speed of your internet connection and records the value in an Excel sheet.
 
@@ -21,4 +21,4 @@ The Python packages can be installed by running `pip install <package-name>` in 
 
 <hr>
 This script may be automated using <i>Task Scheduler</i> (in Windows) in order to get test results periodically. I found this tutorial useful for the same: https://youtu.be/DVUlkU2AxgQ<br>
-Use the <b>Create Task...</b> option instead of <b>Create Basic Task...</b> option to get more customization options.
+Set up the task using <b>Create Task...</b> option instead of <b>Create Basic Task...</b> to get more customization features. These however can also be accessed by right-clicking on the task and selecting <b>Properties</b>.
